@@ -1,0 +1,12 @@
+
+INICIO
+LEER N valores de glucosa 
+CALCULAR promedio 
+SI promedio >180
+     IMPRIMIR “hiperglucemia”
+SINO promedio >70-180 <
+     IMPRIMIR “normal”
+SINO promedio <70
+     IMPRIMIR “hipoglucemia”
+FIN SI 
+FIN
