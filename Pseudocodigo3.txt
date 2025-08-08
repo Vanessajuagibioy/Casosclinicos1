@@ -1,0 +1,10 @@
+INICIO 
+LEER dosis prescrita (mg/h)
+LEER concentracion (mg/mL).
+CALCULAR velocidad (mL/h) = dosis / concentración
+SI velocidad >50 
+    IMPRIMIR “pider antencion”
+SINO 
+IMPRIMIR “continuar”
+FIN SI 
+FIN
