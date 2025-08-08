@@ -1,0 +1,10 @@
+INICIO 
+LEE M valores de frecuencia cardiaca ppm). 
+SI m <60 O >100
+        CONTAR  a=+1
+SI >3 
+    IMPRIMIR “potencial arritmia”
+SINO 
+    IMPRIMIR “rítmico”
+FIN SI 
+FIN

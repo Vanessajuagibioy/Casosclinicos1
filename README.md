@@ -1,1 +1,6 @@
-# Casosclinicos1
+Alertas de glucemia: El código solicita al usuario la cantidad de lecturas de glucosa que desea ingresar, y luego pide cada lectura una por una. Todos los valores se almacenan en una lista. Después, calcula la suma total de las lecturas y obtiene el promedio dividiendo esa suma por la cantidad de datos ingresados. Finalmente, utiliza una estructura condicional para analizar el promedio: si es mayor a 180, imprime “HIPERGLUCEMIA”; si es menor a 70, muestra “HIPOGLUCEMIA”; y si está entre 70 y 180, muestra “NORMAL”.
+![alt text](<Diagrama Programacion 1.png>)
+Detección de arritmia simple: Se registran varios valores del ritmo del corazón. Se revisa cuántos de esos valores están por fuera del rango normal (entre 60 y 100). Si más de tres valores están fuera del rango, se muestra un mensaje que dice “POTENCIAL ARRITMIA”; si no, se muestra “Rítmico”.
+![alt text](IMG_0533.jpeg)
+Velocidad de infusión IV: Se recibe una dosis de medicamento y su concentración. Luego se calcula qué tan rápido debe entrar el medicamento al cuerpo. Si esa velocidad es mayor a 50 mL/h, se muestra una alerta que dice “PIDER ATENCIÓN”; si no, se muestra “Continuar”.
+![alt text](IMG_0532.jpeg)
